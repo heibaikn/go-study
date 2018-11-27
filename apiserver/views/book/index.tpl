@@ -1,1 +1,0 @@
-/Users/downing/go/src/apiserver/views/book/index.tpl
